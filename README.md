@@ -54,7 +54,3 @@ Power BI · Matplotlib · Seaborn
 
 ---
 
-## 📊 GitHub Stats 📈
-
-![Dipesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipeshrajjoshi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshrajjoshi&layout=compact&theme=radical)
