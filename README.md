@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20work-Data%20Analyst%20roles%20in%20Canada-2ea44f?style=for-the-badge" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Based%20in-Windsor%2C%20Ontario-0b3d91?style=for-the-badge" alt="Windsor, Ontario"/>
+  <img src="https://img.shields.io/badge/Ready%20to-Relocate-f28c28?style=for-the-badge" alt="Ready to relocate"/>
 </p>
 
 <p align="center">
@@ -25,7 +26,7 @@ I'm a Data Analyst with a **Master of Applied Computing** from the **University 
 - 📈 Currently working as a **Data Analyst** (database analysis and reporting) with LSP Technologies Inc.
 - 🏏 Big cricket fan and MS Dhoni admirer. Stay calm, trust the process, finish the game.
 
-**Open to Data Analyst roles across Canada** (on-site, hybrid or remote).
+**Open to Data Analyst roles across Canada** (on-site, hybrid or remote), and **ready to relocate** for the right opportunity.
 
 ---
 
@@ -109,10 +110,8 @@ I'm a Data Analyst with a **Master of Applied Computing** from the **University 
 
 ## 🤝 Let's connect
 
-I'm looking for Data Analyst roles where I can work with SQL, Python and dashboards to turn data into decisions.
+I'm looking for Data Analyst roles where I can work with SQL, Python and dashboards to turn data into decisions. I'm ready to relocate if the opportunity is right.
 
 📧 **dipeshjoshi1000@gmail.com**  ·  💼 [LinkedIn](https://www.linkedin.com/in/dipeshrajjoshi/)  ·  🧩 [LeetCode](https://leetcode.com/u/Dipesh2610/)
 
 <p align="center"><i>Thanks for stopping by! ⭐ Feel free to star a repo if you find it useful.</i></p>
-
-
